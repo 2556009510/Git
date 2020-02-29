@@ -1,3 +1,12 @@
+### 开始前
+<br>先创建文件夹
+<br>
+<br>![image](https://github.com/2556009510/Git/blob/master/%E5%9B%BE%E7%89%87/%E5%BC%80%E5%A7%8B%E5%89%8D/1.png)
+![image](https://github.com/2556009510/Git/blob/master/%E5%9B%BE%E7%89%87/%E5%BC%80%E5%A7%8B%E5%89%8D/2.png)
+![image](https://github.com/2556009510/Git/blob/master/%E5%9B%BE%E7%89%87/%E5%BC%80%E5%A7%8B%E5%89%8D/3.png)
+
+
+
 ### 1.Git基础语法
 pwd ·········································`打印当前的目录`
 <br>mkdir A  ································· `创建文件夹A`
